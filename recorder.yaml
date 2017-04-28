@@ -1,0 +1,2 @@
+  purge_days: 14
+  db_url: !secret dbs_url
