@@ -1,0 +1,16 @@
+17-04-27 23:56:03 ERROR (Recorder) [homeassistant.components.recorder] Error during connection setup: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno -2] Name or service not known)") (retrying in 3 seconds)
+17-04-27 23:56:06 ERROR (Recorder) [homeassistant.components.recorder] Error during connection setup: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno -2] Name or service not known)") (retrying in 3 seconds)
+17-04-27 23:56:09 ERROR (Recorder) [homeassistant.components.recorder] Error during connection setup: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno -2] Name or service not known)") (retrying in 3 seconds)
+17-04-27 23:56:12 WARNING (MainThread) [homeassistant.setup] Setup of recorder is taking over 10 seconds.
+17-04-27 23:56:12 ERROR (Recorder) [homeassistant.components.recorder] Error during connection setup: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno -2] Name or service not known)") (retrying in 3 seconds)
+17-04-27 23:56:15 ERROR (Recorder) [homeassistant.components.recorder] Error during connection setup: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno -2] Name or service not known)") (retrying in 3 seconds)
+17-04-27 23:56:18 ERROR (Recorder) [homeassistant.components.recorder] Error during connection setup: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno -2] Name or service not known)") (retrying in 3 seconds)
+17-04-27 23:56:21 ERROR (Recorder) [homeassistant.components.recorder] Error during connection setup: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno -2] Name or service not known)") (retrying in 3 seconds)
+17-04-27 23:56:25 ERROR (Recorder) [homeassistant.components.recorder] Error during connection setup: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno -2] Name or service not known)") (retrying in 3 seconds)
+17-04-27 23:56:28 ERROR (Recorder) [homeassistant.components.recorder] Error during connection setup: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno -2] Name or service not known)") (retrying in 3 seconds)
+17-04-27 23:56:31 ERROR (Recorder) [homeassistant.components.recorder] Error during connection setup: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'localhost' ([Errno -2] Name or service not known)") (retrying in 3 seconds)
+17-04-27 23:56:31 ERROR (MainThread) [homeassistant.setup] Setup failed for recorder: Component failed to initialize.
+17-04-27 23:56:31 ERROR (MainThread) [homeassistant.setup] Unable to setup dependencies of history. Setup failed for dependencies: recorder
+17-04-27 23:56:31 ERROR (MainThread) [homeassistant.setup] Setup failed for history: Could not setup all dependencies.
+17-04-27 23:56:31 ERROR (MainThread) [homeassistant.setup] Unable to setup dependencies of logbook. Setup failed for dependencies: recorder
+17-04-27 23:56:31 ERROR (MainThread) [homeassistant.setup] Setup failed for logbook: Could not setup all dependencies.
