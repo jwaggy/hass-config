@@ -1,0 +1,499 @@
+2017-05-04 22:29:45.914335 INFO AppDaemon Version 1.5.2 starting
+2017-05-04 22:29:45.923628 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:29:50.931520 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:29:55.939956 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:00.947778 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:05.955590 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:10.963436 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:15.971242 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:20.979049 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:25.986854 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:30.994731 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:36.002545 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:41.010261 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:46.018063 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:51.025877 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:30:56.033674 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:31:01.041378 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:31:06.049079 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:31:11.056787 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:31:16.064477 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:31:21.072228 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:31:26.080001 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:31:31.087817 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:31:36.093299 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:31:41.101598 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:32:11.374726 INFO AppDaemon Version 1.5.2 starting
+2017-05-04 22:32:11.383759 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:32:16.391605 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:32:21.399953 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:32:26.407729 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:32:31.415527 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:32:36.423354 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:32:41.431178 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:32:46.438982 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:32:51.446791 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:32:56.454607 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:01.462310 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:06.470109 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:11.477928 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:16.485718 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:21.493395 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:26.501078 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:31.508762 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:36.516457 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:41.524224 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:46.532041 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:51.539856 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:33:56.547654 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:01.555473 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:06.563308 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:11.571086 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:16.578914 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:21.586716 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:26.594523 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:31.602247 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:36.610038 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:41.617857 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:46.625636 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:51.633328 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:34:56.641010 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:01.648682 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:06.656418 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:11.664196 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:16.671985 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:21.679794 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:26.687579 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:31.695396 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:36.703191 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:41.710991 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:46.718790 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:51.726595 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:35:56.734297 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:01.742098 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:06.749878 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:11.757671 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:16.765456 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:21.773143 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:26.780820 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:31.784291 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:36.792069 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:41.799842 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:46.807637 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:51.815437 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:36:56.823228 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:01.831006 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:06.838824 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:11.846632 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:16.853839 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:21.861697 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:26.939968 INFO AppDaemon Version 1.5.2 starting
+2017-05-04 22:37:27.107376 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:32.405631 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:37.644804 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:42.901656 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:47.950883 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:53.101338 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-04 22:37:58.151784 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:56:04.050471 INFO AppDaemon Version 1.5.2 starting
+2017-05-05 07:56:04.429993 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:56:09.742142 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:56:15.112624 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:56:20.339789 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:56:25.461850 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:56:30.584661 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:56:35.760672 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:56:40.883409 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:56:46.180422 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:56:51.301700 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:56:56.425408 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:57:01.548239 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:57:06.717752 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:57:11.840229 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:57:16.968615 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 07:57:22.141093 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-05 16:18:24.086224 INFO AppDaemon Version 1.5.2 starting
+2017-05-05 16:18:29.291474 WARNING 'elevation' directive is deprecated, please remove
+2017-05-05 16:18:29.292135 WARNING 'latitude' directive is deprecated, please remove
+2017-05-05 16:18:29.320413 WARNING 'longitude' directive is deprecated, please remove
+2017-05-05 16:18:29.320888 WARNING 'time_zone' directive is deprecated, please remove
+2017-05-05 16:18:34.802879 INFO Got initial state
+2017-05-05 16:18:34.803658 INFO App initialization complete
+2017-05-05 16:18:34.985856 INFO Connected to Home Assistant 0.43.2
+2017-05-05 16:20:45.002606 INFO /opt/appdaemon/conf/appdaemon.cfg modified
+2017-05-05 16:21:44.003051 INFO Loading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-05 16:21:44.006255 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-05 16:21:44.115987 INFO hello_world: Hello from AppDaemon
+2017-05-05 16:21:44.119697 INFO hello_world: You are now ready to run Apps!
+2017-05-06 01:59:27.483732 WARNING Scheduler clock skew detected - delta = 4.483668088912964 - resetting
+2017-05-06 01:59:27.486154 WARNING Scheduler clock skew detected - delta = 1.5138990879058838 - resetting
+2017-05-06 01:59:27.488596 WARNING Scheduler clock skew detected - delta = 1.511457920074463 - resetting
+2017-05-10 18:03:05.509470 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-10 18:03:10.692141 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-10 18:03:15.946091 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-10 18:04:13.099877 INFO AppDaemon Version 1.5.2 starting
+2017-05-10 18:04:13.152244 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-10 18:04:18.250200 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-10 18:04:23.403163 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-10 18:04:28.451543 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-10 18:04:33.530760 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-10 18:04:38.625406 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-10 18:04:43.711541 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-10 18:04:48.759124 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-10 18:04:53.810969 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-10 18:05:09.445244 INFO Got initial state
+2017-05-10 18:05:09.446872 INFO Loading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-10 18:05:09.449246 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-10 18:05:09.569210 INFO hello_world: Hello from AppDaemon
+2017-05-10 18:05:09.572332 INFO hello_world: You are now ready to run Apps!
+2017-05-10 18:05:09.572826 INFO App initialization complete
+2017-05-10 18:05:09.680874 INFO Connected to Home Assistant 0.44.1
+2017-05-11 19:36:51.151421 WARNING Scheduler clock skew detected - delta = 4.151360034942627 - resetting
+2017-05-11 19:36:51.154046 WARNING Scheduler clock skew detected - delta = 1.8460090160369873 - resetting
+2017-05-11 19:36:51.156688 WARNING Scheduler clock skew detected - delta = 1.8433659076690674 - resetting
+2017-05-13 01:59:51.319599 WARNING Scheduler clock skew detected - delta = 2.319538116455078 - resetting
+2017-05-13 01:59:51.322066 WARNING Scheduler clock skew detected - delta = 1.6779870986938477 - resetting
+2017-05-16 20:28:52.427186 INFO AppDaemon Version 1.5.2 starting
+2017-05-16 20:28:52.658802 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-16 20:28:57.805243 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-16 20:29:13.336866 INFO Got initial state
+2017-05-16 20:29:13.338408 INFO Loading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-16 20:29:13.357746 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-16 20:29:13.487655 INFO hello_world: Hello from AppDaemon
+2017-05-16 20:29:13.490912 INFO hello_world: You are now ready to run Apps!
+2017-05-16 20:29:13.491415 INFO App initialization complete
+2017-05-16 20:29:13.604851 INFO Connected to Home Assistant 0.44.1
+2017-05-17 00:49:23.337057 WARNING Scheduler clock skew detected - delta = 4.336994886398315 - resetting
+2017-05-17 00:49:23.339518 WARNING Scheduler clock skew detected - delta = 1.6605339050292969 - resetting
+2017-05-17 00:49:23.341915 WARNING Scheduler clock skew detected - delta = 1.6581370830535889 - resetting
+2017-05-17 19:30:03.695158 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:30:08.767631 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:30:13.817251 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:30:18.970355 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:30:24.086696 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:30:29.133600 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:30:34.265782 INFO Got initial state
+2017-05-17 19:30:36.269210 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-17 19:30:36.271640 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-17 19:30:36.274967 INFO hello_world: Hello from AppDaemon
+2017-05-17 19:30:36.278171 INFO hello_world: You are now ready to run Apps!
+2017-05-17 19:30:36.278697 INFO App initialization complete
+2017-05-17 19:30:36.383897 INFO Connected to Home Assistant 0.44.1
+2017-05-17 19:35:10.815423 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:35:15.943739 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:35:21.096199 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:35:26.324367 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:35:31.511015 INFO Got initial state
+2017-05-17 19:35:33.514385 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-17 19:35:33.516715 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-17 19:35:33.519992 INFO hello_world: Hello from AppDaemon
+2017-05-17 19:35:33.523139 INFO hello_world: You are now ready to run Apps!
+2017-05-17 19:35:33.523663 INFO App initialization complete
+2017-05-17 19:35:33.629228 INFO Connected to Home Assistant 0.44.1
+2017-05-17 19:36:41.406825 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:36:46.556687 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:36:51.636287 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:36:56.706866 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:37:01.833938 INFO Got initial state
+2017-05-17 19:37:03.837344 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-17 19:37:03.839422 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-17 19:37:03.842472 INFO hello_world: Hello from AppDaemon
+2017-05-17 19:37:03.845369 INFO hello_world: You are now ready to run Apps!
+2017-05-17 19:37:03.845848 INFO App initialization complete
+2017-05-17 19:37:03.950594 INFO Connected to Home Assistant 0.44.1
+2017-05-17 19:40:52.354287 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:40:57.510640 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:41:02.558817 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:41:07.790752 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:41:13.026475 INFO Got initial state
+2017-05-17 19:41:15.029971 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-17 19:41:15.032416 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-17 19:41:15.035981 INFO hello_world: Hello from AppDaemon
+2017-05-17 19:41:15.039365 INFO hello_world: You are now ready to run Apps!
+2017-05-17 19:41:15.039898 INFO App initialization complete
+2017-05-17 19:41:15.169159 INFO Connected to Home Assistant 0.44.1
+2017-05-17 19:44:03.021855 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:44:08.172998 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:44:13.271073 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:44:18.322058 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 19:44:23.477171 INFO Got initial state
+2017-05-17 19:44:25.480595 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-17 19:44:25.483012 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-17 19:44:25.486303 INFO hello_world: Hello from AppDaemon
+2017-05-17 19:44:25.489446 INFO hello_world: You are now ready to run Apps!
+2017-05-17 19:44:25.489975 INFO App initialization complete
+2017-05-17 19:44:25.594838 INFO Connected to Home Assistant 0.44.1
+2017-05-17 20:15:45.652690 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 20:15:50.753234 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 20:15:55.913965 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 20:17:21.640772 INFO AppDaemon Version 1.5.2 starting
+2017-05-17 20:17:21.716078 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-17 20:17:26.798121 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-17 20:17:42.240797 INFO Got initial state
+2017-05-17 20:17:42.242295 INFO Loading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-17 20:17:42.244346 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-17 20:17:42.365320 INFO hello_world: Hello from AppDaemon
+2017-05-17 20:17:42.368277 INFO hello_world: You are now ready to run Apps!
+2017-05-17 20:17:42.368747 INFO App initialization complete
+2017-05-17 20:17:42.578173 INFO Connected to Home Assistant 0.44.1
+2017-05-17 22:40:31.220256 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 22:40:36.297024 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 22:40:41.452374 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 22:40:46.524231 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 22:40:51.656615 INFO Got initial state
+2017-05-17 22:40:53.659971 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-17 22:40:53.662187 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-17 22:40:53.665160 INFO hello_world: Hello from AppDaemon
+2017-05-17 22:40:53.668032 INFO hello_world: You are now ready to run Apps!
+2017-05-17 22:40:53.668490 INFO App initialization complete
+2017-05-17 22:40:53.773154 INFO Connected to Home Assistant 0.44.1
+2017-05-17 22:46:02.578063 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 22:46:07.680442 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 22:46:12.791639 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 22:46:18.023941 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 22:46:23.102154 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-17 22:46:28.342462 INFO Got initial state
+2017-05-17 22:46:30.345938 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-17 22:46:30.348240 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-17 22:46:30.351436 INFO hello_world: Hello from AppDaemon
+2017-05-17 22:46:30.354463 INFO hello_world: You are now ready to run Apps!
+2017-05-17 22:46:30.354953 INFO App initialization complete
+2017-05-17 22:46:30.459995 INFO Connected to Home Assistant 0.44.1
+2017-05-18 06:06:51.179911 WARNING Scheduler clock skew detected - delta = 4.179848909378052 - resetting
+2017-05-18 06:06:51.182450 WARNING Scheduler clock skew detected - delta = 1.8176031112670898 - resetting
+2017-05-18 06:06:51.184812 WARNING Scheduler clock skew detected - delta = 1.8152399063110352 - resetting
+2017-05-18 08:48:07.126041 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-18 08:49:26.587702 INFO AppDaemon Version 1.5.2 starting
+2017-05-18 08:49:26.750812 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-18 08:49:31.799082 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-18 08:49:37.030968 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-18 08:49:42.077300 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-18 08:49:57.684927 INFO Got initial state
+2017-05-18 08:49:57.686460 INFO Loading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-18 08:49:57.688576 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-18 08:49:57.818601 INFO hello_world: Hello from AppDaemon
+2017-05-18 08:49:57.821723 INFO hello_world: You are now ready to run Apps!
+2017-05-18 08:49:57.822217 INFO App initialization complete
+2017-05-18 08:49:58.049057 INFO Connected to Home Assistant 0.44.1
+2017-05-20 14:34:53.462197 WARNING Scheduler clock skew detected - delta = 4.462133884429932 - resetting
+2017-05-20 14:34:53.464796 WARNING Scheduler clock skew detected - delta = 1.5352580547332764 - resetting
+2017-05-20 14:34:53.467422 WARNING Scheduler clock skew detected - delta = 1.5326330661773682 - resetting
+2017-05-22 13:22:59.803373 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 13:23:04.955343 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 13:23:10.051827 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 13:24:17.244524 INFO AppDaemon Version 1.5.2 starting
+2017-05-22 13:24:17.405779 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-22 13:24:22.503728 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-22 13:24:27.584426 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-22 13:24:32.632737 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-22 13:24:37.685140 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-22 13:24:42.763912 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-22 13:24:47.819872 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-22 13:24:52.875889 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-22 13:24:57.927049 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-22 13:25:13.469917 INFO Got initial state
+2017-05-22 13:25:13.471458 INFO Loading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 13:25:13.473770 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 13:25:13.597216 INFO hello_world: Hello from AppDaemon
+2017-05-22 13:25:13.600155 INFO hello_world: You are now ready to run Apps!
+2017-05-22 13:25:13.600626 INFO App initialization complete
+2017-05-22 13:25:13.707398 INFO Connected to Home Assistant 0.45.0
+2017-05-22 13:25:15.696530 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 13:25:20.745521 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 13:25:25.823697 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 13:26:09.731635 INFO AppDaemon Version 1.5.2 starting
+2017-05-22 13:26:09.971827 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-22 13:26:15.019426 WARNING Unable to connect to Home Assistant, retrying in 5 seconds
+2017-05-22 13:26:30.457666 INFO Got initial state
+2017-05-22 13:26:30.459063 INFO Loading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 13:26:30.461178 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 13:26:30.582497 INFO hello_world: Hello from AppDaemon
+2017-05-22 13:26:30.585556 INFO hello_world: You are now ready to run Apps!
+2017-05-22 13:26:30.586045 INFO App initialization complete
+2017-05-22 13:26:30.695859 INFO Connected to Home Assistant 0.45.0
+2017-05-22 14:15:15.974081 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:15:21.049703 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:15:26.120439 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:15:31.269744 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:15:36.346432 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:15:41.395576 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:15:46.443362 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:15:51.538023 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:15:56.670952 INFO Got initial state
+2017-05-22 14:15:58.674331 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 14:15:58.676659 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 14:15:58.680043 INFO hello_world: Hello from AppDaemon
+2017-05-22 14:15:58.683379 INFO hello_world: You are now ready to run Apps!
+2017-05-22 14:15:58.683913 INFO App initialization complete
+2017-05-22 14:15:58.788009 INFO Connected to Home Assistant 0.45.0
+2017-05-22 14:17:07.043152 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:17:12.196698 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:17:17.244792 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:17:22.294431 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:17:27.372720 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:17:32.508086 INFO Got initial state
+2017-05-22 14:17:34.511483 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 14:17:34.513931 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 14:17:34.517248 INFO hello_world: Hello from AppDaemon
+2017-05-22 14:17:34.520438 INFO hello_world: You are now ready to run Apps!
+2017-05-22 14:17:34.520969 INFO App initialization complete
+2017-05-22 14:17:34.626703 INFO Connected to Home Assistant 0.45.0
+2017-05-22 14:20:16.799686 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:20:21.903507 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:20:26.980910 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:20:32.029993 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:20:37.078514 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:20:42.272287 INFO Got initial state
+2017-05-22 14:20:44.275713 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 14:20:44.278130 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 14:20:44.281397 INFO hello_world: Hello from AppDaemon
+2017-05-22 14:20:44.284490 INFO hello_world: You are now ready to run Apps!
+2017-05-22 14:20:44.285063 INFO App initialization complete
+2017-05-22 14:20:44.390281 INFO Connected to Home Assistant 0.45.0
+2017-05-22 14:22:24.261984 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:22:29.338202 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:22:34.635163 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:22:39.682957 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:22:44.833686 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:22:49.962919 INFO Got initial state
+2017-05-22 14:22:51.966304 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 14:22:51.968633 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 14:22:51.971936 INFO hello_world: Hello from AppDaemon
+2017-05-22 14:22:51.975109 INFO hello_world: You are now ready to run Apps!
+2017-05-22 14:22:51.975643 INFO App initialization complete
+2017-05-22 14:22:52.078755 INFO Connected to Home Assistant 0.45.0
+2017-05-22 14:23:39.963173 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:23:45.034839 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:23:50.268400 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:23:55.315462 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:24:00.412521 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:24:05.545846 INFO Got initial state
+2017-05-22 14:24:07.549528 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 14:24:07.551776 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 14:24:07.555020 INFO hello_world: Hello from AppDaemon
+2017-05-22 14:24:07.558138 INFO hello_world: You are now ready to run Apps!
+2017-05-22 14:24:07.558671 INFO App initialization complete
+2017-05-22 14:24:07.664519 INFO Connected to Home Assistant 0.45.0
+2017-05-22 14:27:52.659812 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:27:57.758846 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:28:02.836094 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:28:12.911646 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:28:18.251859 INFO Got initial state
+2017-05-22 14:28:20.255224 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 14:28:20.257690 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 14:28:20.260904 INFO hello_world: Hello from AppDaemon
+2017-05-22 14:28:20.264073 INFO hello_world: You are now ready to run Apps!
+2017-05-22 14:28:20.264741 INFO App initialization complete
+2017-05-22 14:28:20.431022 INFO Connected to Home Assistant 0.45.0
+2017-05-22 14:36:29.986263 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:36:35.280725 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:36:40.516465 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:36:45.620289 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:36:50.692779 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:36:55.850455 INFO Got initial state
+2017-05-22 14:36:57.853855 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 14:36:57.856164 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 14:36:57.859436 INFO hello_world: Hello from AppDaemon
+2017-05-22 14:36:57.862615 INFO hello_world: You are now ready to run Apps!
+2017-05-22 14:36:57.863146 INFO App initialization complete
+2017-05-22 14:36:58.011778 INFO Connected to Home Assistant 0.45.0
+2017-05-22 14:40:24.396294 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:40:29.662231 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:40:34.775526 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:40:39.848143 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:40:45.055166 INFO Got initial state
+2017-05-22 14:40:47.058607 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 14:40:47.061119 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 14:40:47.064336 INFO hello_world: Hello from AppDaemon
+2017-05-22 14:40:47.067464 INFO hello_world: You are now ready to run Apps!
+2017-05-22 14:40:47.067998 INFO App initialization complete
+2017-05-22 14:40:47.203073 INFO Connected to Home Assistant 0.45.0
+2017-05-22 14:41:32.475369 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:41:37.576500 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:41:42.655062 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:41:47.731969 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:41:52.859293 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:41:58.017228 INFO Got initial state
+2017-05-22 14:42:00.020641 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 14:42:00.023056 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 14:42:00.026364 INFO hello_world: Hello from AppDaemon
+2017-05-22 14:42:00.029566 INFO hello_world: You are now ready to run Apps!
+2017-05-22 14:42:00.030101 INFO App initialization complete
+2017-05-22 14:42:00.213914 INFO Connected to Home Assistant 0.45.0
+2017-05-22 14:50:03.274195 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:50:08.531236 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:50:13.815695 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:50:18.891336 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:50:24.043068 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:50:29.140819 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:50:34.604609 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:50:39.706476 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:50:44.779026 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:50:49.851700 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:50:54.924237 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:50:59.996938 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:51:05.070986 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:51:10.143882 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:51:15.217238 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:51:20.343525 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:51:25.418043 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:51:30.584975 INFO Got initial state
+2017-05-22 14:51:32.588461 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 14:51:32.590793 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 14:51:32.593979 INFO hello_world: Hello from AppDaemon
+2017-05-22 14:51:32.596962 INFO hello_world: You are now ready to run Apps!
+2017-05-22 14:51:32.597546 INFO App initialization complete
+2017-05-22 14:51:32.767181 INFO Connected to Home Assistant 0.45.0
+2017-05-22 14:52:44.240018 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:52:49.340637 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:52:54.414288 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:52:59.593371 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:53:04.699126 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 14:53:09.909987 INFO Got initial state
+2017-05-22 14:53:11.913463 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 14:53:11.915789 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 14:53:11.919108 INFO hello_world: Hello from AppDaemon
+2017-05-22 14:53:11.922312 INFO hello_world: You are now ready to run Apps!
+2017-05-22 14:53:11.922901 INFO App initialization complete
+2017-05-22 14:53:12.052476 INFO Connected to Home Assistant 0.45.0
+2017-05-22 16:07:11.690651 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:07:16.905549 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:07:22.046076 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:07:27.119408 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:07:32.192966 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:07:37.429391 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:07:42.502478 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:07:47.575802 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:07:52.648439 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:07:57.721351 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:02.793716 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:07.867726 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:12.942096 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:18.067352 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:23.222081 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:28.347281 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:33.471279 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:38.547752 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:43.620460 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:48.695214 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:53.768933 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:08:58.850213 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:03.922134 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:09.075419 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:14.150019 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:19.222488 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:24.329899 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:29.431621 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:34.501902 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:39.575203 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:44.646887 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:49.720107 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:54.825420 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:09:59.921527 WARNING Disconnected from Home Assistant, retrying in 5 seconds
+2017-05-22 16:10:05.123614 INFO Got initial state
+2017-05-22 16:10:07.127044 INFO Reloading Module: /home/homeassistant/.homeassistant/apps/hello.py
+2017-05-22 16:10:07.129469 INFO Loading Object hello_world using class HelloWorld from module hello
+2017-05-22 16:10:07.132638 INFO hello_world: Hello from AppDaemon
+2017-05-22 16:10:07.135756 INFO hello_world: You are now ready to run Apps!
+2017-05-22 16:10:07.136329 INFO App initialization complete
+2017-05-22 16:10:07.270906 INFO Connected to Home Assistant 0.45.0

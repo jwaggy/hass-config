@@ -2,10 +2,10 @@ homeassistant:
   # Name of the location where Home Assistant is running
   name: Home
   # Location required to calculate the time the sun rises and sets
-  latitude: 41.5595
-  longitude: -85.8543
+  latitude: !secret lats
+  longitude: !secret longs
   # Impacts weather/sunrise data (altitude above sea level in meters)
-  elevation: 258
+  elevation: !secret elev
   # metric for Metric, imperial for Imperial
   unit_system: imperial
   # Pick yours from here: http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -21,10 +21,10 @@ frontend:
 config:
 
 http:
-  # Uncomment this to add a password (recommended!)
-  # api_password: PASSWORD
-  # Uncomment this if you are using SSL or running in Docker etc
-  # base_url: example.duckdns.org:8123
+  api_password: !secret passcode
+  ssl_certificate: !secret chain
+  ssl_key: !secret key
+  base_url: !secret url
 
 # Checks for available updates
 updater:
@@ -44,13 +44,26 @@ logbook:
 # Track the sun
 sun:
 
-# Weather Prediction
-sensor:
-  platform: yr
-
 # Text to speech
 tts:
   platform: google
 
 group: !include groups.yaml
 recorder: !include recorder.yaml
+
+
+
+device_tracker:
+  - platform: nmap_tracker
+    hosts:
+      - 10.22.16.60
+      - 10.22.16.63
+    home_interval: 5
+  - platform: owntracks
+    max_gps_accuracy: 100
+
+sensor: !include sensor.yaml
+mqtt: !include emqtt.yaml
+logger:
+  default: warning
+
